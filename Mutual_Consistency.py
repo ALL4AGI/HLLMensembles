@@ -97,7 +97,6 @@ def interactive(question, max_iterations=7):
 
         # Append the current prompt_b and solution to concatenated_prompts
         total_prompts += prompt_b + "\n"
-        # 将 responses_b 列表转换为字符串，并加上换行符
         total_solution += ", ".join(map(str, responses_b)) + "\n"
 
         # Append both expert's strategies to history
