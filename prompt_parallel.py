@@ -58,4 +58,3 @@ prompt_template = {
     'first_prompt_stQA': first_prompt_stQA,
     'other_prompt_stQA': other_prompt_stQA
 }
-
