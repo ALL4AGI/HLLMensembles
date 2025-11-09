@@ -26,7 +26,6 @@ prompt_stQA = '''
 (2) Conclude in this format: "The final answer is [ANSWER]"  (NOTE:When the answer of question  is "yes", [ANSWER] is "1", and when the answer is "no", [ANSWER] is "0".)
 '''
 
-
 prompt_template = {
     'prompt_number': prompt_number,
     'prompt_math': prompt_math,
