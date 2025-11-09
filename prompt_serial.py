@@ -66,4 +66,3 @@ prompt_template = {
     'first_prompt_strategy_a': first_prompt_strategy_a,
     'other_prompt_strategy': other_prompt_strategy
 }
-
